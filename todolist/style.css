@@ -1,0 +1,13 @@
+body {
+    background-color: #f8f9fa;
+}
+.container {
+    max-width: 700px;
+}
+.card {
+    border-radius: 12px;
+    border: none;
+}
+.card-body {
+    padding: 20px;
+}
